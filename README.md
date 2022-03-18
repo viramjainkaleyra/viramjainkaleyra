@@ -7,7 +7,7 @@
 
 - 💬 Ask me about ``` topics := []string{ "Golang", "JAVA", "Python" } ```
 
-- 📫 How to reach me **viramjain9742@gmail.com**
+- 📫 You can reach me on [Email](mailto:viram.jain@kaleyra.com) or [Slack](https://kaleyra.slack.com/team/U01PFQ6GMQW)
 
 ### What are my featured projects:question::rocket:
 <code>[Fake Currency Detection System](https://github.com/viram-jain/FakeCurrencyDetectionSystem)</code> :money_with_wings: <br>
